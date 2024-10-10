@@ -11,12 +11,21 @@
       top:3%;
       left:55%;
     }
+    body {
+      background-image: url("https://storage.movie6.com/movie/22b3d_1_1650506622.jpg"); opacity: 0.9;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin-right: 200px;
+      background-size:cover;
+     
+      
+    }
 	iframe
     {
-      width: 500px;
-      height: 300px;
+      width: 600px;
+      height: 350px;
       position: absolute;
-      top:50%;
+      top:70%;
       left:55%;
     }
     
@@ -41,6 +50,10 @@
       position: absolute;
       top:32.5%;
       left:55%;
+    }
+    main
+    {
+      color: aliceblue;
     }
    
   
